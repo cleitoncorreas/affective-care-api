@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/cleitoncorreas/cleitoncorreas/blob/f9211383406d991325f31dc676348bf74c333bdf/Projetos/AffectiveCare/Logo/logo.png"  width="200" height="200"/>
+  <img src="https://github.com/cleitoncorreas/cleitoncorreas/blob/3699d8ada990b2ade8c4ddc4ed9eefc19d27130b/Projetos/AffectiveCare/Capa/capa.png"/>
 </p>
-
-<br>
 
 # 😄 Affective Care API
 Projeto agenda em Ruby on Rails
