@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2018/03/20/19/45/tree-3244425_1280.png"  width="200" height="200"/>
+  <img src="https://github.com/cleitoncorreas/cleitoncorreas/blob/f9211383406d991325f31dc676348bf74c333bdf/Projetos/AffectiveCare/Logo/logo.png"  width="200" height="200"/>
 </p>
-<h1 align="center">Affective Care</h1>
+
 <br>
 
 # 😄 Affective Care API
